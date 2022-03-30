@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Simple vue.js project with github integrated",
+  "main": "vue.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgwynn36/hello-world.git"
+  },
+  "author": "Jacqueline Gwynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgwynn36/hello-world/issues"
+  },
+  "homepage": "https://github.com/jgwynn36/hello-world#readme"
+}
